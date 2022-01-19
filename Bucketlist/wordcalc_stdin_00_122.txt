@@ -1,0 +1,411 @@
+def foo 3
+calc foo + bar =
+def bar 7
+def programming 10
+calc foo + bar =
+def is 4
+def fun 8
+calc programming - is + fun =
+def fun 1
+calc programming - is + fun + bar - bar =
+clear
+def test3 2
+calc test =
+def test 1
+calc test - test3 =
+def test2 -1
+calc test - test3 =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def abc 21
+calc abc =
+clear
+        
+def calc 2
+calc calc + calc = 
+def def 4
+calc calc + calc = 
+clear
+def cba 3
+calc cba =
+def def 3
+calc def =
+clear
+def foo 3
+calc foo + bar =
+def bar 7
+def programming 10
+calc foo + bar =
+def is 4
+def fun 8
+calc programming - is + fun =
+def fun 1
+calc programming - is + fun + bar - bar =
+clear
+def test3 2
+calc test =
+def test 1
+calc test - test3 =
+def test2 -1
+calc test - test3 =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def abc 21
+calc abc =
+clear
+        
+def calc 2
+calc calc + calc = 
+def def 4
+calc calc + calc = 
+clear
+def cba 3
+calc cba =
+def def 3
+calc def =
+clear
+def foo 3
+calc foo + bar =
+def bar 7
+def programming 10
+calc foo + bar =
+def is 4
+def fun 8
+calc programming - is + fun =
+def fun 1
+calc programming - is + fun + bar - bar =
+clear
+def test3 2
+calc test =
+def test 1
+calc test - test3 =
+def test2 -1
+calc test - test3 =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def abc 21
+calc abc =
+clear
+        
+def calc 2
+calc calc + calc = 
+def def 4
+calc calc + calc = 
+clear
+def cba 3
+calc cba =
+def def 3
+calc def =
+clear
+def foo 3
+calc foo + bar =
+def bar 7
+def programming 10
+calc foo + bar =
+def is 4
+def fun 8
+calc programming - is + fun =
+def fun 1
+calc programming - is + fun + bar - bar =
+clear
+def test3 2
+calc test =
+def test 1
+calc test - test3 =
+def test2 -1
+calc test - test3 =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def abc 21
+calc abc =
+clear
+        
+def calc 2
+calc calc + calc = 
+def def 4
+calc calc + calc = 
+clear
+def cba 3
+calc cba =
+def def 3
+calc def =
+clear
+def foo 3
+calc foo + bar =
+def bar 7
+def programming 10
+calc foo + bar =
+def is 4
+def fun 8
+calc programming - is + fun =
+def fun 1
+calc programming - is + fun + bar - bar =
+clear
+def test3 2
+calc test =
+def test 1
+calc test - test3 =
+def test2 -1
+calc test - test3 =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def abc 21
+calc abc =
+clear
+        
+def calc 2
+calc calc + calc = 
+def def 4
+calc calc + calc = 
+clear
+def cba 3
+calc cba =
+def def 3
+calc def =
+clear
+def foo 3
+calc foo + bar =
+def bar 7
+def programming 10
+calc foo + bar =
+def is 4
+def fun 8
+calc programming - is + fun =
+def fun 1
+calc programming - is + fun + bar - bar =
+clear
+def test3 2
+calc test =
+def test 1
+calc test - test3 =
+def test2 -1
+calc test - test3 =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def abc 21
+calc abc =
+clear
+        
+def calc 2
+calc calc + calc = 
+def def 4
+calc calc + calc = 
+clear
+def cba 3
+calc cba =
+def def 3
+calc def =
+clear
+def foo 3
+calc foo + bar =
+def bar 7
+def programming 10
+calc foo + bar =
+def is 4
+def fun 8
+calc programming - is + fun =
+def fun 1
+calc programming - is + fun + bar - bar =
+clear
+def test3 2
+calc test =
+def test 1
+calc test - test3 =
+def test2 -1
+calc test - test3 =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def abc 21
+calc abc =
+clear
+        
+def calc 2
+calc calc + calc = 
+def def 4
+calc calc + calc = 
+clear
+def cba 3
+calc cba =
+def def 3
+calc def =
+clear
+def foo 3
+calc foo + bar =
+def bar 7
+def programming 10
+calc foo + bar =
+def is 4
+def fun 8
+calc programming - is + fun =
+def fun 1
+calc programming - is + fun + bar - bar =
+clear
+def test3 2
+calc test =
+def test 1
+calc test - test3 =
+def test2 -1
+calc test - test3 =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def abc 21
+calc abc =
+clear
+        
+def calc 2
+calc calc + calc = 
+def def 4
+calc calc + calc = 
+clear
+def cba 3
+calc cba =
+def def 3
+calc def =
+clear
+def foo 3
+calc foo + bar =
+def bar 7
+def programming 10
+calc foo + bar =
+def is 4
+def fun 8
+calc programming - is + fun =
+def fun 1
+calc programming - is + fun + bar - bar =
+clear
+def test3 2
+calc test =
+def test 1
+calc test - test3 =
+def test2 -1
+calc test - test3 =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def abc 21
+calc abc =
+clear
+        
+def calc 2
+calc calc + calc = 
+def def 4
+calc calc + calc = 
+clear
+def cba 3
+calc cba =
+def def 3
+calc def =
+clear
+def foo 3
+calc foo + bar =
+def bar 7
+def programming 10
+calc foo + bar =
+def is 4
+def fun 8
+calc programming - is + fun =
+def fun 1
+calc programming - is + fun + bar - bar =
+clear
+def test3 2
+calc test =
+def test 1
+calc test - test3 =
+def test2 -1
+calc test - test3 =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def hey 21
+calc =
+calc hey =
+clear
+def abc 21
+calc abc =
+clear
+        
+def calc 2
+calc calc + calc = 
+def def 4
+calc calc + calc = 
+clear
+def cba 3
+calc cba =
+def def 3
+calc def =
+clear
+def word1 1
+def word2 2
+def word3 3
+def word4 4
+def word5 5
+def word6 6
+def word7 7
+calc word7 - word1 + word6 - word2 + word5 - word3 + word4 =
+def ans 16
+calc word7 - word1 + word6 - word2 + word5 - word3 + word4 =
+clear
